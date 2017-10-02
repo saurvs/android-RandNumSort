@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandNumSort</string>
+    <string name="gen_button_label">Generate</string>
+    <string name="sort_button_label">Sort</string>
+    <string name="gen_frag_title">Generate numbers</string>
+    <string name="sort_frag_title">Sorted numbers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
